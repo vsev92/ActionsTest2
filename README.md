@@ -1,0 +1,1 @@
+[![main](https://github.com/vsev92/ActionsTest2/actions/workflows/main.yml/badge.svg)](https://github.com/vsev92/ActionsTest2/actions/workflows/main.yml)
